@@ -1,7 +1,11 @@
 # Codecademy Project: Python Gradebook
 
+![""](https://i.pinimg.com/736x/8e/9e/39/8e9e3956e2929be4ccd0bf1c2be52ad3.jpg)
+
 ## Overview
-You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
+For the purpose of this activity, I am a student and  trying to organise my subjects and grades using Python. 
+
+The notebook containing the code is [here](https://github.com/sarahm44/python-gradebook/blob/main/gradebook_notebook.py).
 
 ## Tasks
 ### Create Some Lists
